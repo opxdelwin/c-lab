@@ -14,7 +14,7 @@ int main(void)
         i++;
     }
 
-    printf("Total sum: %d \n", sum);
+    printf("Total sum: %d and Avg: %d \n", sum, sum/10);
 
     return 0;
 }
